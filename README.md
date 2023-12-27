@@ -1,11 +1,5 @@
 # Find the maximum of a list of numbers
 
-Name: Amruthavarshini Gopal
-
-Register number: 23000851
-
-Department: AIDS
-
 ## Aim:
 
 To write a program to find the maximum of a list of numbers.
